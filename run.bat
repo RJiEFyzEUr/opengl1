@@ -1,0 +1,1 @@
+g++ -o %1.exe %1 -L"lib" -lglu32 -lfreeglut -lopengl32 && %1.exe
